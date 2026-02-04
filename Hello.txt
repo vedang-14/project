@@ -2,3 +2,5 @@ welcome to git
 welcome to git for 2nd time
 welcome to git for 3rd time
 welcome to git for 4th time
+welcome to git for 5th time
+welcome to git for 6th time
