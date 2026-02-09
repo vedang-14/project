@@ -8,7 +8,11 @@ welcome to git for 7th time
 welcome to git for 8th time
 welcome to git for 9th time
 welcome to git for 10th time
-welcome to git for 11th
+welcome to git for 11th time
 
+<<<<<<< HEAD
 welcome  from  the feature-1 branch
+=======
+welcome from feature-1 branch again 
+>>>>>>> feature-1
 
