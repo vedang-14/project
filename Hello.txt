@@ -16,3 +16,4 @@ welcome  from  the feature-1 branch
 welcome from feature-1 branch again 
 >>>>>>> feature-1
 
+made changes in github.com
