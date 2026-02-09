@@ -7,4 +7,6 @@ welcome to git
 welcome to git for 3rd time
 helloo!!!
 
+pushing from global to local 
+
 
