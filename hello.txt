@@ -1,6 +1,19 @@
+
+hello
+
+
+welcome to git
+
 welcome to git for 3rd time
 helloo!!!
+
 Hii vedang
 Global to Local call
 global to local again
 global to local is back
+
+
+pushing from global to local 
+
+
+
