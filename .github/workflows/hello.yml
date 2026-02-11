@@ -1,0 +1,10 @@
+name: First Cl Job
+
+on: [push]
+
+job:
+  simple-job:
+    runs-on: unbuntu-latest
+    steps:
+      - name: Print Message
+        run: echo "Cl is running successfully!"
