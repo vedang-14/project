@@ -1,1 +1,10 @@
-Welcome
+name: Hello World Workflow
+
+on: [push] # This tells it to run every time you push code
+
+jobs:
+  say-hello:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Greet the user
+        run: echo "welcome"
